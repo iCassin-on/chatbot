@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-token = os.getenv('AUTH_TOKEN')
+token = os.getenv('AUTH_TOKEN') 
 bot = telebot.TeleBot(token)
 
 
