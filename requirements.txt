@@ -28,9 +28,6 @@ fastjsonschema==2.16.1
 flatbuffers==2.0.7
 fonttools==4.37.2
 gast==0.4.0
-google-auth==2.11.0
-google-auth-oauthlib==0.4.6
-google-pasta==0.2.0
 grpcio==1.49.0
 h5py==3.7.0
 idna==3.3
@@ -56,8 +53,6 @@ nbclient==0.5.13
 nbconvert==6.5.3
 nbformat==5.5.0
 nest-asyncio==1.5.4
-notebook==6.4.12
-notebook-shim==0.1.0
 numpy==1.22.1
 oauthlib==3.2.1
 opt-einsum==3.3.0
